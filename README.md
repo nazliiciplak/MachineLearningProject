@@ -24,19 +24,14 @@ This project uses machine learning models to predict earthquake damage based on 
 
 1. Clone the repository:
     bash
-    git clone https://github.com/yourusername/earthquake-damage-prediction.git
-    cd earthquake-damage-prediction
+    git clone https://github.com/nazliiciplak/MachineLearningProject.git
+    cd MachineLearningProject
     
 
 2. Create and activate the virtual environment:
     bash
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    
-
-3. Install the required packages:
-    bash
-    pip install -r requirements.txt
     
 
 ## Usage
@@ -60,14 +55,9 @@ The damage_assessment.csv file contains the following columns:
 - Building characteristics (e.g., age, height, material, etc.)
 - Damage-related features (e.g., overall collapse, overall leaning, foundation damage, damage grade)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## Contact
 
-For any questions or inquiries, please contact [your email address].
